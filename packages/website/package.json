@@ -78,7 +78,7 @@
     "history": "^4.10.1",
     "mdast-util-from-markdown": "catalog:",
     "mdast-util-mdx": "catalog:",
-    "monaco-editor": "~0.54.0",
+    "monaco-editor": "~0.55.0",
     "prismjs": "1.30.0",
     "raw-loader": "^4.0.2",
     "rimraf": "catalog:",
